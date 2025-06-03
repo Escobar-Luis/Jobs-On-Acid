@@ -24,12 +24,13 @@
   </task>
 
   <iterative_refinement_protocol>
-    <step_1>Initial Analysis: Identify gaps between resume and target position</step_1>
-    <step_2>Keyword Mapping: Extract and prioritize keywords from target_position XML</step_2>
-    <step_3>Content Optimization: Suggest specific bullet point improvements</step_3>
-    <step_4>Meta-Review: Analyze suggestion quality and identify improvement areas</step_4>
-    <step_5>Prompt Enhancement: Recommend specific prompt modifications for better results</step_5>
+    <step_1>Gap Analysis: Compare resume content against target_position requirements and identify missing technical skills, experience levels, and keyword deficiencies</step_1>
+    <step_2>Keyword Extraction: Parse target_position XML to extract high-priority technical terms, methodologies, and soft skills, then rank by frequency and relevance</step_2>
+    <step_3>Content Transformation: Rewrite existing bullet points using Google XYZ format with verified metrics and integrate prioritized keywords naturally</step_3>
+    <step_4>Quality Assessment: Evaluate suggestion specificity, keyword integration effectiveness, and alignment with target position requirements</step_4>
+    <step_5>Protocol Optimization: Identify protocol weaknesses and suggest specific improvements for next iteration cycle</step_5>
   </iterative_refinement_protocol>
+  
 
   <verification_constraints>
     <constraint>Provide specific rewritten bullet points using ONLY verified information from verified_qa_session</constraint>

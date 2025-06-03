@@ -65,8 +65,6 @@
     <personal_information>
         <name>Luis Escobar</name>
         <location>New York City, NY</location>
-        <phone>917-678-4510</phone>
-        <email>lae311@stern.nyu.edu</email>
         <portfolio>https://luisalfredoescobar.netlify.app/</portfolio>
     </personal_information>
     
@@ -153,7 +151,7 @@
             <skill>Software Deployment</skill>
         </category>
     </skills>
-   </resume>
+  </resume>
 
   <iterative_refinement_protocol>
     <step_1>Gap Analysis: Compare resume content against target_position requirements and identify missing technical skills, experience levels, and keyword deficiencies</step_1>

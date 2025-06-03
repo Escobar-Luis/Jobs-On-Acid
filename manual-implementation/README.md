@@ -1,18 +1,41 @@
-# Manual Implementation Phase
+# Jobs on Acid - Manual Implementation Workflow
 
-## Purpose
-Document the manual job application process to validate workflow before automation.
+## Current Status: ✅ Job Parsed → 🔄 Resume Tailoring → ⏳ Pending Steps
 
-## Immediate Goal
-Apply to ONE job manually while documenting every step for future AI agent development.
+## Master Checklist (OpenSesame Associate Software Engineer)
 
-## Structure
-Each numbered folder represents one workflow step:
-1. **01-find-job**: Job discovery and analysis
-2. **02-tailor-resume**: Resume customization 
-3. **03-tailor-cover-letter**: Cover letter generation
-4. **04-apply-job**: Application submission
-5. **05-networking**: Referral outreach
+### Phase 1: Job Analysis (✅ COMPLETED)
+- [x] Found target job: OpenSesame Associate Software Engineer
+- [x] Extracted job data using parser prompt
+- [x] Generated structured XML with technical stack, methodologies, performance objectives
+- [x] **Next**: Apply keyword extraction bridge
+
+### Phase 2: Resume Optimization (🔄 IN PROGRESS)
+- [ ] **CURRENT STEP**: Run keyword extraction on parsed job data
+- [ ] Apply enhanced resume tailoring prompt with meta-analysis
+- [ ] Generate tailored resume version
+- [ ] Document what worked/didn't work in results.md
+
+### Phase 3: Cover Letter (⏳ PENDING)
+- [ ] Create cover letter using job context
+- [ ] Personalize for OpenSesame culture
+- [ ] Document template for future use
+
+### Phase 4: Application (⏳ PENDING)
+- [ ] Submit application with tailored materials
+- [ ] Document application process
+- [ ] Track response timeline
+
+### Phase 5: Networking (⏳ PENDING)
+- [ ] Identify OpenSesame employees on LinkedIn
+- [ ] Craft referral outreach messages
+- [ ] Execute networking strategy
+
+## Immediate Next Action
+**Run the keyword extraction bridge prompt on your parsed OpenSesame job data before proceeding to resume tailoring.**
+
+## Iteration Strategy
+Complete ONE full cycle (all 5 phases) with OpenSesame job before starting second job. This validates the entire workflow before scaling.
 
 ## Documentation Method
 - **prompts.md**: Store Claude 4 prompts used

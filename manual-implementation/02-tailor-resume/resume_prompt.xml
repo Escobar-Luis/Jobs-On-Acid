@@ -13,14 +13,14 @@
   
 
   <task>
-    <objective>Review ${resume} and suggest specific improvements to align with ${target_position} requirements using iterative refinement</objective>
+    <objective>Analyze the provided ${resume} against ${target_position} requirements and iteratively suggest targeted improvements.</objective>
     <focus_areas>
-      <area>Financial/Business Impact quantification</area>
-      <area>Technical keyword optimization for ATS</area>
-      <area>Cultural alignment with company values</area>
-      <area>Experience narrative coherence</area>
+      <area>Quantify financial and business impact with verified metrics</area>
+      <area>Optimize technical keywords for ATS relevance and density</area>
+      <area>Ensure cultural fit by aligning with company values and soft skills</area>
+      <area>Enhance experience narrative for clarity and coherence</area>
     </focus_areas>
-    <meta_analysis>After providing suggestions, analyze prompt effectiveness and recommend improvements</meta_analysis>
+    <meta_analysis>Evaluate the quality of suggestions, identify prompt weaknesses, and recommend iterative enhancements.</meta_analysis>
   </task>
 
   <iterative_refinement_protocol>

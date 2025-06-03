@@ -22,6 +22,139 @@
     <meta_analysis>Evaluate the quality of suggestions, identify prompt weaknesses, and recommend iterative enhancements.</meta_analysis>
   </task>
 
+  <target_position>
+    <company>OpenSesame</company>
+    <title>Associate Software Engineer</title>
+    <location>United States (Remote-first)</location>
+    <salary_range>$98,000-$119,000</salary_range>
+    
+    <key_requirements>
+      <technical_stack>
+        <primary>TypeScript, Node.js, React</primary>
+        <secondary>Test-driven development (TDD), Continuous deployment</secondary>
+        <legacy>Drupal 7, Angular</legacy>
+      </technical_stack>
+      
+      <methodologies>
+        <development_practices>Extreme Programming (XP), Pair programming, Mob programming, Agile ceremonies</development_practices>
+        <testing_approaches>Test-driven development (TDD), Sociable unit tests, Narrow integration tests</testing_approaches>
+        <deployment_practices>Continuous deployment, On-call rotation, Release captain responsibilities</deployment_practices>
+      </methodologies>
+      
+      <experience_requirements>
+        <level>Associate level (0-2 years professional experience)</level>
+        <domain_experience>eLearning marketplace, Full-stack development</domain_experience>
+        <growth_expectations>Mentorship-driven learning, Technical skill development through hands-on work</growth_expectations>
+      </experience_requirements>
+    </key_requirements>
+    
+    <performance_objectives>
+      <first_90_days>Team integration, Learn legacy Drupal 7/Angular systems, Begin TypeScript/Node.js/React modernization, Participate in pairing/mobbing sessions, Apply TDD with senior engineer guidance</first_90_days>
+      <key_responsibilities>Full-stack development, Legacy system maintenance, Code debugging, Collaborative development, Agile ceremony participation</key_responsibilities>
+      <success_metrics>System architecture understanding, On-call participation, Release captain experience, TDD fluency, Defensive programming implementation</success_metrics>
+    </performance_objectives>
+    
+    <cultural_context>
+      <work_environment>Remote-first, Collaborative pair/mob programming, Mentorship-focused</work_environment>
+      <team_structure>Marketplace team, Small sub-teams using XP practices, Collective code ownership</team_structure>
+      <company_values>Performance-driven, Selective hiring, Pay transparency, Diversity and inclusion, Continuous improvement</company_values>
+    </cultural_context>
+  </target_position>
+  
+<resume>
+    <personal_information>
+        <name>Luis Escobar</name>
+        <location>New York City, NY</location>
+        <phone>917-678-4510</phone>
+        <email>lae311@stern.nyu.edu</email>
+        <portfolio>https://luisalfredoescobar.netlify.app/</portfolio>
+    </personal_information>
+    
+    <professional_titles>
+        <title>Fullstack Engineer</title>
+        <title>Web Developer</title>
+        <title>Software Engineer</title>
+    </professional_titles>
+    
+    <professional_summary>
+        Software Engineer with experience at VMware developing full-stack solutions using Java and TypeScript for cloud management platforms. Eager to leverage proven problem-solving abilities and a strong technical foundation to contribute to new engineering challenges.
+    </professional_summary>
+    
+    <work_experience>
+        <position>
+            <company>CloudHealth by VMware</company>
+            <location>New York, NY</location>
+            <duration>
+                <start_date>10/2022</start_date>
+                <end_date>02/2024</end_date>
+            </duration>
+            <title>Software Engineer</title>
+            <employment_type>Full-time</employment_type>
+            <achievements>
+                <achievement>Engineered full-stack account reassignment system using Java backend and React/TypeScript frontend with automated validation, reducing administrator task time by 3 hours per operation while automating movement of 4 account types with 100s of accounts each for 20,000+ customers across AWS, Azure, GCP, and DataDog platforms, volunteering to create React frontend functionality for every backend feature implemented</achievement>
+                <achievement>Modernized legacy Ruby on Rails monolith by developing Java microservices with Redis messaging integration, implemented GraphQL dataloader optimization for sharded database architecture improving query performance by up to 60%, and transformed static Docker infrastructure into dynamic Terraform variables for multi-region AWS deployment reducing deployment complexity by 40% while maintaining comprehensive test coverage using JUnit, Jest, and RSpec</achievement>
+                <achievement>Practiced Test-Driven Development (TDD) and daily pair programming across multiple timezones including India, implementing comprehensive test coverage using JUnit for Java backend, Jest for TypeScript/React frontend, and RSpec for legacy Rails code while delivering features in 2-week sprints, reducing development cycle time through automated testing frameworks and collaborative knowledge transfer sessions</achievement>
+            </achievements>
+        </position>
+    </work_experience>
+    
+    <projects>
+        <project>
+            <name>CrypsterAl</name>
+            <description>
+                <feature>Built full-stack trading application using React frontend with Apollo Client and Django REST/GraphQL backend, integrating real-time Yahoo Finance API data processing with Python Pandas/NumPy libraries to develop and backtest Simple Moving Average (SMA) trading strategies</feature>
+                <feature>Implemented secure user authentication using JWT tokens via Django-GraphQL-JWT library with encrypted session persistence, serving financial data visualizations through Highcharts integration for 100+ daily price data points across multiple cryptocurrency markets</feature>
+                <feature>Designed GraphQL schema optimization using Graphene framework to efficiently query and manipulate trading data client-side, reducing API calls by an estimated 40% through strategic data batching and caching implementation</feature>
+            </description>
+        </project>
+    </projects>
+    
+    <education>
+        <degree>
+            <program>Full Stack Web Development</program>
+            <institution>Flatiron School</institution>
+            <location>New York, NY (In-Person)</location>
+            <duration>
+                <start_date>10/2021</start_date>
+                <end_date>02/2022</end_date>
+            </duration>
+        </degree>
+        <degree>
+            <program>B.S. in Business and Finance</program>
+            <institution>New York University Stern School of Business</institution>
+            <location>New York, NY</location>
+            <duration>
+                <start_date>09/2017</start_date>
+                <end_date>05/2021</end_date>
+            </duration>
+        </degree>
+    </education>
+    
+    <skills>
+        <category name="TECHNICAL SKILLS">
+            <skill>React</skill>
+            <skill>TypeScript</skill>
+            <skill>Test-Driven Development (TDD)</skill>
+            <skill>Pair Programming</skill>
+            <skill>Javascript</skill>
+            <skill>Python</skill>
+            <skill>HTML</skill>
+            <skill>CSS</skill>
+            <skill>Tailwind CSS</skill>
+            <skill>Pandas</skill>
+            <skill>Numpy</skill>
+            <skill>Django</skill>
+            <skill>SQL</skill>
+            <skill>GraphQL</skill>
+            <skill>Apollo Client</skill>
+            <skill>Shell</skill>
+            <skill>Git</skill>
+            <skill>REST</skill>
+            <skill>Software Deployment</skill>
+        </category>
+    </skills>
+   </resume>
+
   <iterative_refinement_protocol>
     <step_1>Gap Analysis: Compare resume content against target_position requirements and identify missing technical skills, experience levels, and keyword deficiencies</step_1>
     <step_2>Keyword Extraction: Parse target_position XML to extract high-priority technical terms, methodologies, and soft skills, then rank by frequency and relevance</step_2>
@@ -39,37 +172,38 @@
   
 
   <keyword_optimization_framework>
-    <ats_keywords>Extract technical terms from target_position/technical_stack for direct integration</ats_keywords>
-    <methodology_keywords>Identify development practices from target_position/methodologies</methodology_keywords>
-    <cultural_keywords>Map soft skills from target_position/cultural_context and soft_skills_indicators</cultural_keywords>
-    <industry_keywords>Extract domain terms from target_position/industry_context</industry_keywords>
+    <ats_keywords>Extract and rank technical terms from target_position/technical_stack by frequency, then integrate at 2-3% density throughout resume content</ats_keywords>
+    <methodology_keywords>Identify specific development practices from target_position/methodologies and map to user's verified experience using exact terminology</methodology_keywords>
+    <cultural_keywords>Parse soft skills from target_position/cultural_context and soft_skills_indicators, then align with user's demonstrated behavioral examples</cultural_keywords>
+    <industry_keywords>Extract domain-specific terms from target_position/industry_context and integrate naturally into relevant experience descriptions</industry_keywords>
   </keyword_optimization_framework>
-
+  
   <output_structure>
     <section name="keyword_analysis">
-      <critical_keywords>Must-have technical skills for ATS optimization</critical_keywords>
-      <methodology_alignment>Development practices matching</methodology_alignment>
-      <cultural_fit_indicators>Soft skills and company culture alignment</cultural_fit_indicators>
+      <critical_keywords>Top 10 technical skills ranked by ATS importance with integration recommendations</critical_keywords>
+      <methodology_alignment>Specific development practices matched to user experience with implementation examples</methodology_alignment>
+      <cultural_fit_indicators>Soft skills mapped to behavioral examples with company culture alignment score</cultural_fit_indicators>
     </section>
     
     <section name="resume_improvements">
-      <summary_optimization>Rewritten professional summary with keyword integration</summary_optimization>
-      <experience_enhancement>Specific bullet point improvements with quantified impact</experience_enhancement>
-      <skills_alignment>Technical skills section optimization</skills_alignment>
+      <summary_optimization>Rewritten professional summary with verified keywords integrated at optimal density</summary_optimization>
+      <experience_enhancement>Specific bullet point rewrites using Google XYZ format with verified metrics and keyword integration</experience_enhancement>
+      <skills_alignment>Technical skills section reorganized by relevance with proficiency indicators</skills_alignment>
     </section>
     
     <section name="meta_analysis">
-      <prompt_effectiveness>Analysis of current prompt performance</prompt_effectiveness>
-      <improvement_suggestions>Specific recommendations for prompt enhancement</improvement_suggestions>
-      <iteration_recommendations>Next steps for refinement cycle</iteration_recommendations>
+      <prompt_effectiveness>Quantified analysis of suggestion quality, keyword integration success, and user verification compliance</prompt_effectiveness>
+      <improvement_suggestions>Specific prompt modifications with expected outcome improvements</improvement_suggestions>
+      <iteration_recommendations>Prioritized next steps for protocol enhancement with success metrics</iteration_recommendations>
     </section>
   </output_structure>
-
+  
   <meta_prompting_instructions>
-    1. After completing resume analysis, evaluate your own response quality
-    2. Identify areas where the prompt could be more specific or effective
-    3. Suggest concrete improvements to the prompt structure or content
-    4. Recommend additional verification questions that should be included
-    5. Propose iterative refinement steps for continuous improvement
+    1. Evaluate response quality using specific metrics: keyword integration accuracy, verification compliance rate, and suggestion actionability
+    2. Identify prompt sections that produced vague or generic outputs and specify exact improvement requirements
+    3. Recommend concrete structural changes with expected performance improvements and measurable outcomes
+    4. Suggest additional verification checkpoints that would prevent assumption-based suggestions
+    5. Propose specific iteration steps with success criteria and quality benchmarks for continuous protocol enhancement
   </meta_prompting_instructions>
+  
 </meta_resume_tailoring_system>
